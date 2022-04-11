@@ -1,0 +1,2 @@
+string = input("请输入你想说的话")
+print(string)
